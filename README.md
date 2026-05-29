@@ -87,7 +87,7 @@ Performance Metrics:
 
 ### Future Sales Forecast
 
-![Future Forecast](screenshots/forecast.png)
+![Future Forecast](screenshots/Forecast.png)
 
 ### Terminal Output
 
